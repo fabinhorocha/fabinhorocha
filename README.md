@@ -44,8 +44,8 @@ A selection of systems I've engineered, focusing on performance and complex busi
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- **E-mail:** [YOUR_EMAIL@EXAMPLE.COM]
+- **LinkedIn:** https://www.linkedin.com/in/fabio-rocha-braz-802096196
+- **E-mail:** fabinhorocha@gmail.com
 
 ---
 *Seniority is not just about code; it's about understanding the business and delivering scalable results.*
